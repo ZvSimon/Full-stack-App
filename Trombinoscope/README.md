@@ -36,6 +36,10 @@ Install dependencies
   [ On vient de lancer le front-end et le back-end]
   
   Attention : Allez dans le fichier server.js et après avoir envoyé les données du dossier init.js , on le passe en commentaire. ( // ) 
+
+```
+```bash
+  Le site est déjà dockériser. 
 ```
 
 
